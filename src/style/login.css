@@ -1,0 +1,14 @@
+.regis-form ul li {
+  display: flex;
+  width: 400px;
+  gap: 5px;
+}
+
+.regis-form ul li input {
+  border: 1px solid rgb(0, 167, 0);
+  padding: 10px 20px;
+}
+
+.regis-form ul li input:valid {
+  outline: none;
+}
